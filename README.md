@@ -36,5 +36,8 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 ![image](https://github.com/user-attachments/assets/ba311968-0918-46c5-a9f6-aead23791579) 
 # State-Value function 2:
  ![image](https://github.com/user-attachments/assets/4607dfd5-b1a8-46e8-a5a3-1f67b7bfc17d)
+# comparison of policy 1 and policy 2
+![image](https://github.com/user-attachments/assets/59dd0489-f143-4251-ac7a-38146b0e80a6)
+
 ## RESULT:
 Thus, The Python program to evaluate the given policy is successfully executed.
